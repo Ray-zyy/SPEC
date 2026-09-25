@@ -1,0 +1,17 @@
+name: spec
+channels: [conda-forge, pytorch, nvidia]
+dependencies:
+  - python=3.11
+  - numpy>=1.26
+  - scipy>=1.11
+  - pandas>=2.1
+  - pyarrow
+  - scikit-learn
+  - matplotlib
+  - tqdm
+  - tabulate
+  - pytest
+  - pytorch=2.*
+  - pytorch-cuda=12.1
+  - pip
+  - pip: [shap]

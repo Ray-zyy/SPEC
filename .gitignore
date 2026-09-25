@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Large / local experiment artifacts
+data/raw/
+data/processed/
+runs/
+logs/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Local generated reports / caches
+*.pkl
+*.parquet
+*.feather
+*.tmp
+
+# Keep curated paper outputs under results/ and figures/
+!results/*.csv
+!figures/*.png
