@@ -1,0 +1,4 @@
+op,seconds,n
+curves x100,0.15331825288012624,3652
+spec() full (density+PELT+entropy),0.18090969091281295,3652
+bootstrap B=100,0.32803527219220996,3652

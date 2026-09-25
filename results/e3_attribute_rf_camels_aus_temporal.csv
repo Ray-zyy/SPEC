@@ -1,0 +1,4 @@
+target,cv_r2_mean,cv_r2_std,top_attributes
+A_up,0.3434102004176693,0.02255543142235737,hyd_q5=0.096; hyd_low_q_freq=0.036; hyd_q_mean=0.030; clim_aridity=0.019; hyd_high_q_freq=0.013; clim_p_mean=0.007; hyd_zero_q_freq=0.005; hyd_q95=0.005
+A_lo,0.39702556747022566,0.008994405148347614,hyd_q5=0.517; clim_high_prec_freq=0.012; hyd_recession_k=0.004; clim_low_prec_freq=0.003; hyd_low_q_freq=0.002; hyd_runoff_ratio=0.002; hyd_low_q_dur=0.002; clim_high_prec_dur=0.002
+alpha_star_up,0.06338640690406598,0.07158694550366096,clim_p_seasonality=0.363; hyd_ac1=0.177; hyd_rb_flashiness=0.058; clim_high_prec_dur=0.020; hyd_low_q_freq=0.018; hyd_q95=0.016; clim_frac_snow=0.015; hyd_recession_k=0.011

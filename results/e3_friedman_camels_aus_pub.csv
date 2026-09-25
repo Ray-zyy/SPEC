@@ -1,0 +1,3 @@
+value,stat,p,N,ranks,CD
+A_up,139.00090497737528,4.6187972523737073e-29,221,"{'gru[nse]': 2.85, 'lstm[nse]': 2.4, 'patchtst[nse]': 4.07, 'tcn[nse]': 2.87, 'transformer[nse]': 2.81}",0.41032996324059945
+A_lo,83.60904977375594,2.992369392872906e-17,221,"{'gru[nse]': 2.62, 'lstm[nse]': 2.68, 'patchtst[nse]': 3.69, 'tcn[nse]': 3.33, 'transformer[nse]': 2.67}",0.41032996324059945
